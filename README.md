@@ -51,7 +51,7 @@ I'm a Backend and DevOps Developer with a strong focus on backend development an
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <img src="https://skillicons.dev/icons?i=githubactions,php" height="40" alt="githubactions logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
