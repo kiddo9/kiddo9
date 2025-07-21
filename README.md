@@ -38,6 +38,9 @@ I'm a Backend and DevOps Developer with a strong focus on backend development an
 ## 📌 Pinned Repositories
 
 <div style="display:flex; flex-wrap:wrap; flex-grow:1; gap-3">
+  <a href="https://github.com/kiddo9/repo1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiddo9&repo=EMS&theme=radical" />
+</a>
 <a href="https://github.com/kiddo9/repo1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiddo9&repo=nct_question_Back&theme=radical" />
 </a>
