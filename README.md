@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 
-I'm a Backend and DevOps Developer with a strong focus on backend development and a passion for building scalable, real-time applications. <br><br>I work with technologies like Laravel, Node.js and React Native, and I’m actively growing my skills in Go and Solidity. I’ve built chat systems, Admin panels, and e-commerce platforms—always pushing for clean code, optimized performance, and real-world impact. I love working on projects that challenge me to think deeper about system architecture, real-time communication, and problem-solving at scale.
+I'm a Backend and DevOps Developer with a strong focus on backend development and a passion for building scalable, real-time applications. <br><br>I work with technologies like Laravel, Node.js and Go lang, and I’m actively growing my skills in Solidity. I’ve built chat systems, Admin panels, Employment managment application and e-commerce platforms—always pushing for clean code, optimized performance, and real-world impact. I love working on projects that challenge me to think deeper about system architecture, real-time communication, and problem-solving at scale.
 
 - 🔭 I'm currently working on [SMS MAIL SYSTEM](https://github.com/kiddo9/SMS-MAIL-SERVER)<br>- 🌱 I'm currently learning **GO LANG**<br>- 👨‍💻 All of my projects are available at [paschal-portfolio.vercel.app](https://paschal-portfolio.vercel.app/)<br>- 💬 Ask me about **Backend Development**<br>- 📫 How to reach me: **paschalelechi0@gmail.com**<br>- ⚡ Fun fact: **Something interesting about yourself**
 
